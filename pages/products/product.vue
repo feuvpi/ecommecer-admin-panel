@@ -1,5 +1,5 @@
 <template>
-    <div class="my-4 mx-2 border-2 border-slate-300 flex flex-row rounded-lg shadow-lg overflow-hidden">
+    <div class="my-4 border-2 border-slate-300 flex flex-row rounded-lg shadow-lg overflow-hidden">
       <div class="flex-none w-48">
         <img :src="imageUrl" alt="Product Image" class="w-full h-48 object-cover">
       </div>

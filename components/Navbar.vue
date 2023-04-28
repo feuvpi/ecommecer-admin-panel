@@ -3,7 +3,7 @@
     <div class="container mx-auto px-4 py-3">
       <div class="flex justify-between items-center">
         <div class="flex-grow">
-          <nuxt-link class="text-xl font-bold text-gray-900" to="/">SHOP - ADMIN</nuxt-link>
+          <nuxt-link class="text-xl font-bold text-gray-900" to="/">SHOPLOGO</nuxt-link>
         </div>
         <div class="flex items-center justify-items-center">
           <div class="relative mx-auto">

@@ -1,5 +1,5 @@
 <template>
-    <div class="mt-2">
+    <div class="mt-2 mx-2">
         <div class="p mx-2 font-bold text-2xl mt-4">CADASTRO DE PRODUTOS</div>
         <div v-show="!products.length" class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3 mt-2" role="alert">
             <p class="font-bold">Carregando!</p>
